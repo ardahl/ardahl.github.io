@@ -4,4 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-Include CV Here
+[Direct Link]({{ site.baseurl }}/pdfs/AlexDahlCV.pdf)
+
+<iframe src="/pdfs/AlexDahlCV.pdf" width="100%" height="800px"><\iframe>
