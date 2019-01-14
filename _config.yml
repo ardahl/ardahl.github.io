@@ -16,18 +16,18 @@
 title: Alex Dahl Graphics Research
 email: adahl1@umbc.edu
 description: > # this means to ignore newlines until "baseurl:"
-  I am a recent graduate student at the University of Maryland Baltimore
+  I am a graduate student at the University of Maryland Baltimore
   County. I'm currently under Adam Bargteil. My research interests are
   in Computer Graphics, Physics-Based Animation, and Computational Methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: CodingInPasta
+# twitter_username: CodingInPasta
 github_username:  ardahl
 
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
