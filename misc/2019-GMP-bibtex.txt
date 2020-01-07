@@ -1,0 +1,8 @@
+@inproceedings{Dahl:2019:GMP,
+ author = {Alex Dahl and Adam W. Bargteil},
+ title = {Global Momentum Preservation for Position-based Dynamics},
+ booktitle = {Proceedings of ACM SIGGRAPH Motion, Interaction and Games},
+ year = {2019},
+ month = {Oct},
+ location = {Newcastle upon Tyne, United Kingdom}
+}

@@ -1,0 +1,8 @@
+@inproceedings{Dahl:2019:GMP,
+ author = {Alex Dahl and Adam W. Bargteil},
+ title = {Early Termination of Conjugate Gradients for Corotated Finite Elements},
+ booktitle = {Proceedings of ACM SIGGRAPH Motion, Interaction and Games},
+ year = {2019},
+ month = {Oct},
+ location = {Newcastle upon Tyne, United Kingdom}
+}
