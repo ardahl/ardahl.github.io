@@ -17,7 +17,7 @@ title: Alex Dahl Graphics Research
 email: adahl1@umbc.edu
 description: > # this means to ignore newlines until "baseurl:"
   I am a graduate student at the University of Maryland Baltimore
-  County. I'm currently under Adam Bargteil. My research interests are
+  County. I'm currently advised by Adam Bargteil. My research interests are
   in Computer Graphics, Physics-Based Animation, and Computational Methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
