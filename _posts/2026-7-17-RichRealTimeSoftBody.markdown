@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Early Termination of Conjugate Gradients for Corotated Finite Elements"
+title:  "Rich Real-Time Soft Body Animation"
 date:   2026-7-17 12:00:00 -0500
 categories: research
 tags: [Research, Dissertation, Publication, Conjugate Gradients, Corotated, FEM, Finite Element, PBD, Position Based Dynamics, Rotation]
