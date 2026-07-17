@@ -64,3 +64,21 @@ permalink: /research/
         ACM SIGGRAPH Conference on <i>Motion, Interaction and Games 2019</i><br>
     </div>
 </div>
+
+<!-- Dissertation -->
+<div class="row">
+    <!-- The cover image -->
+    <div class="column image">
+        <a href="2026/7/17/GlobalMomentum.html">
+        <img src="/imgs/thesis_thumbnail.png">
+        </a>
+    </div>
+    <!-- Citation -->
+    <div class="column info">
+        A. Dahl<br>
+        <a href="2026/7/17/RichRealTimeSoftBody.html">
+        <b>"Rich Real-Time Soft Body Animation."</b><br>
+        </a>
+        PhD Dissertation, University of Maryland Baltimore County, Catonsville, Maryland, May 2026<br>
+    </div>
+</div>
