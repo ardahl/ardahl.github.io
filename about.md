@@ -16,3 +16,5 @@ Code repos with various personal projects:
 [Github](https://github.com/ardahl) - Class projects and small personal research-related projects
 
 [BitBucket](https://bitbucket.org/lastingluck/) - Contains a bunch of small one-off projects.
+
+[Codeberg](https://codeberg.org/FiniteFractal) - Currently in the process of slowly moving everything here to consolidate everything.
