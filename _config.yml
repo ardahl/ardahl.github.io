@@ -21,8 +21,8 @@ description: > # this means to ignore newlines until "baseurl:"
   in Computer Graphics, Physics-Based Animation, and Computational Methods.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: CodingInPasta
 github_username:  ardahl
+codeberg_username: FiniteFractal
 
 # Build settings
 markdown: kramdown

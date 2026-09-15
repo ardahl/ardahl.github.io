@@ -29,3 +29,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "kramdown", ">= 2.3.0"
 gem "kramdown-parser-gfm"
+
+gem 'base64', '>= 0.1.0'
+gem 'bigdecimal', '>= 4.1.3'
